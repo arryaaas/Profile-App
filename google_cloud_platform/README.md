@@ -130,7 +130,3 @@ Task:
     ```
 
 2. Click on the link it provides.
-
-    ```
-    https://keen-oasis-350522.et.r.appspot.com
-    ```
